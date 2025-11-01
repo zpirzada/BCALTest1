@@ -1,0 +1,32 @@
+{
+  "id": "cf8f60a5-6ba9-4e19-9689-bcd132c3d075",
+  "name": "Embrace_Zeb_EPOKA_Sandbox3",
+  "publisher": "Zeb at Embrace Tech publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Zeb is testing AL code",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "26.0.0.0",
+  "application": "26.5.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
