@@ -10,6 +10,6 @@ pageextension 50140 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published by Zeb at Embrace Tech: Hello world! NEW SANDBOX3');
+        Message('App published by Zeb at Embrace Tech: Hello world! NEW SANDBOX3 - now github');
     end;
 }
